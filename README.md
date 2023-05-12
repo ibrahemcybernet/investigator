@@ -2,7 +2,7 @@ A web based handy-recon tool that uses different Google Dorking techniques and s
 about the target domain name.
 
 
-- https://ibrahimcybernet.github.io/investigator/
+- https://ibrahemcybernet.github.io/investigator/
 
 <br>
 <p align="center">
